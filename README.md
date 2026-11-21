@@ -1,4 +1,4 @@
-This is the complete repository of our group project: Will.y!
+This is the complete repository of our group project: Will.y!  
 Contents:
 - Willy_REPORT = full report of the Will.y project
 - Willy_PRESENTATION = pptx presentation 
